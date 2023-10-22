@@ -1,6 +1,5 @@
 # ☔ Cyclone
 
-**Version 0.6.0**
 
 📃 Weather forecast app for forecasting weather in your town
 
